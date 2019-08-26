@@ -45,13 +45,14 @@ body {
     text-align: center;
 }
 .login-btn {
-    width: 240px;
+    width: 220px;
     background: #2c3e50;
     border: 0;
     color: white;
     padding: 10px;
     border-radius: 6px;
     cursor: pointer;
+    text-align: center;
 }
 .hide-login-btn {
     color: #000;
